@@ -1,0 +1,11 @@
+jupyter
+pandas
+python-dotenv
+google-generativeai
+matplotlib
+tiktoken
+seaborn
+scipy
+sacrebleu
+rouge
+streamlit
